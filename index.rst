@@ -12,7 +12,7 @@ The QuickBooks Tool Hub is a free all-in-one utility by Intuit that helps you fi
 
 .. image:: Button.png
    :alt: Download QuickBooks Tool Hub
-   :target: https://quickbooks-tool-hub-helpcenter.readthedocs.io/en/latest/
+   :target: https://pre.im/?5sA8atG1tsAqWksmoic9c0FjqVjufgHDnS83WWGR9bhitXhPjrqQI9pYleW0BRdj9Vltypb89tVgzJn3Csi9c
 .. raw:: html
 
     </div>
